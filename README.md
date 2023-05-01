@@ -2,7 +2,7 @@
  This is a repository with my personal vim configuration.
 
 <details>
-<summary><b>__Dependencies__</b></summary>
+<summary><b>Dependencies</b></summary>
 
 ## Install programs
 
