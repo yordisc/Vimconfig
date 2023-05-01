@@ -1,7 +1,10 @@
 # Vimconfig
  This is a repository with my personal vim configuration.
 
-<Dependencies>
+<details>
+<summary><b>__Dependencies__</b></summary>
+
+## Install programs
 
 _Debian_
 ```bash
@@ -60,7 +63,7 @@ sudo pacman -S curl xterm ranger fzf rxvt-unicode neovim python3-pip powerline t
 
 </details>
 
-## Install Config
+## Copy Config
 ```bash
 			cd $HOME
 			git clone https://github.com/yordisc/Vimconfig
