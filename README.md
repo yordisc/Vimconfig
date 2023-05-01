@@ -1,8 +1,7 @@
 # Vimconfig
  This is a repository with my personal vim configuration.
 
-<details>
-## :zap: Dependencies :zap:
+<Dependencies>
 
 _Debian_
 ```bash
