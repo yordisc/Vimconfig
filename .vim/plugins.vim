@@ -49,7 +49,7 @@ Plug 'jremmen/vim-ripgrep'
 Plug 'voldikss/vim-floaterm'
 Plug 'voldikss/fzf-floaterm'
 Plug 'windwp/vim-floaterm-repl'
-Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary' }
+"Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary' }
 
 " Nerdtree
 Plug 'preservim/nerdtree'
@@ -70,7 +70,7 @@ Plug 'gennaro-tedesco/nvim-peekup'
 Plug 'roobert/search-replace.nvim'
 
 " MiniMap
-Plug 'wfxr/minimap.vim' "Install https://github.com/wfxr/code-minimap/releases
+"Plug 'wfxr/minimap.vim' "Install https://github.com/wfxr/code-minimap/releases
 
 " Typing
 Plug 'jiangmiao/auto-pairs'  "inserts closing quotes and parenthesis as you type
@@ -148,8 +148,15 @@ Plug 'aduros/ai.vim'
 
 " Dev Web
 Plug 'manzeloth/live-server'
+Plug 'barrett-ruth/live-server.nvim'
 
 "=============Language========================
+
+Plug 'ap/vim-css-color' "CSS Color
+
+" Fake text
+Plug 'tkhren/vim-fake' "Vim Fake
+Plug 'vim-scripts/loremipsum' "lorem ipsum
 
 " csv
 Plug 'chrisbra/csv.vim'
